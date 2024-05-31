@@ -2,7 +2,7 @@
 ## Introduction:
 As a data science enthusiast, I am passionate about extracting actionable insights from complex data to help decision-makers drive meaningful impact. My journey in this broad and ever-evolving field has been an exciting one, filled with opportunities to apply my analytical skills and problem-solving abilities. Through this platform, I aim to showcase my achievements, share my experiences, and continue learning from the data science community. So far, I have specialized in building predictive models, designing interactive dashboards, and generating insightful reports to support data-driven decision-making.
 
-## List of Projects:
+## Project Links:
 Project 1: Energy Consumption Predictive Model;
 
 Project 2: Data Salary Predictive Model;
