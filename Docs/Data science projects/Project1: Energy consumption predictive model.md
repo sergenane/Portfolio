@@ -8,4 +8,16 @@ The core of our project revolves around two fundamental research questions:
 1.	What are the key indicators or factors influencing energy consumption?
 2.	Can we accurately predict future energy consumption in buildings using historical usage data?
 
-RAW Data:
+## RAW Data:
+The dataset source from Kaggle: Energy-consumption-prediction (kaggle.com)
+
+Here are the dataset’s variables and their descriptions:
+![image](https://github.com/sergenane/Portfolio/assets/171219995/65afbcea-e22e-48ca-955e-0f2c1e17984e)
+
+## EDA
+![image](https://github.com/sergenane/Portfolio/assets/171219995/db7ce243-87a0-46b6-b38b-b56d7a239a3c)
+![image](https://github.com/sergenane/Portfolio/assets/171219995/df9acf07-7d17-4c8f-ae88-5659183094b6)
+
+
+## Model
+![image](https://github.com/sergenane/Portfolio/assets/171219995/d890fc7c-dfdc-4f45-bd53-1ecfcba427d2)
