@@ -22,10 +22,4 @@ Here are the dataset’s variables and their descriptions:
 ## Model
 ![image](https://github.com/sergenane/Portfolio/assets/171219995/d890fc7c-dfdc-4f45-bd53-1ecfcba427d2)
 
-Support documents location:
-. Notebook
 
-.Presentation
-
-. Report: Docs/Data science projects/Report - Project1 Energy Consumption.pdf
-. 
