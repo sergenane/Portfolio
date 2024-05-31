@@ -5,7 +5,10 @@ All members of our team are in the final semester of our data science bachelorâ€
 
 # RAW DATA
 Here are the datasetâ€™s features and their descriptions:
-![image](https://github.com/sergenane/Portfolio/assets/171219995/8a196c0e-a11b-4f54-bd0d-46b54f1dc122)
+
+![image](https://github.com/sergenane/Portfolio/assets/171219995/3947e910-5aa6-4d8b-bf78-a7671ec4d118)
+
+
 
 
 # EDA
@@ -19,9 +22,9 @@ We evaluated many different regression models and iterations to predict salaries
 
 ## Support documents for this project:
 
-## Jupyter Notebook
-## Presentation
-## Report
+#### Jupyter Notebook:
+#### Presentation:
+#### Report:
 
 
 
