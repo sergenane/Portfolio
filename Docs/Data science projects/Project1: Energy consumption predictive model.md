@@ -29,6 +29,6 @@ Here are the dataset’s variables and their descriptions:
 
 .
 
-. 
+. https://github.com/sergenane/Portfolio/blob/56080eaf4e54c7c31cdd6a707b32f39ef4a0ff96/Docs/Data%20science%20projects/Report%20-%20Project1%20Energy%20Consumption.pdf
 
 
