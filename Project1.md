@@ -27,7 +27,7 @@ Here are the dataset’s variables and their descriptions:
 
 .[05_Jupyter_Notebook_Code_Project1 Energy consumption](https://github.com/sergenane/Portfolio/blob/e03de205b3fed77607e97568dd989b43886b07d7/Data%20science%20Projects/Project1%3A%20Energy%20consumption%20predictive%20model/05_Jupyter_Notebook_Code_Project1%20Energy%20consumption.ipynb)
 
-.
+.[Presentation - Project1 Energy Consumption](https://github.com/sergenane/Portfolio/blob/a0351bbc237e8042cd6b295b50ffb453235198cc/Data%20science%20Projects/Project1%3A%20Energy%20consumption%20predictive%20model/Presentation%20-%20Project1%20Energy%20Consumption.pptx)
 
-.
+.[Report - Project1 Energy Consumption](https://github.com/sergenane/Portfolio/blob/f44384a9ca6948e2707d8acc01639c5b17223f71/Data%20science%20Projects/Project1%3A%20Energy%20consumption%20predictive%20model/Report%20-%20Project1%20Energy%20Consumption.pdf)
 
