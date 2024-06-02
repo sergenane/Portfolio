@@ -22,9 +22,11 @@ Here are the descriptions of each feature, including details about the scale and
 
 ## Support documents for this project:
 
-#### jupyter Notebook:
-#### Presentation:
-#### Report:
+. [05_Jupyter_Notebook_Code_Project3 Student's stress level]( https://github.com/sergenane/Portfolio/blob/597c156fb3394999c4141314a18df42011dac84e/Data%20science%20Projects/Project3%3A%20Stress%20Level%20Predictive%20model/05_Jupyter_Notebook_Code_Project3%20Student's%20stress%20level.ipynb)
+
+. [Presentation - Project 3 Student's stress level]( https://github.com/sergenane/Portfolio/blob/597c156fb3394999c4141314a18df42011dac84e/Data%20science%20Projects/Project3%3A%20Stress%20Level%20Predictive%20model/Presentation%20-%20Project%203%20Student's%20stress%20level.pptx)
+
+. [Report - Project3 Student's stress level]( https://github.com/sergenane/Portfolio/blob/597c156fb3394999c4141314a18df42011dac84e/Data%20science%20Projects/Project3%3A%20Stress%20Level%20Predictive%20model/Report%20-%20Project3%20Student's%20stress%20level.pdf)
 
 
 
