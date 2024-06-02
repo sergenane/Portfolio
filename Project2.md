@@ -22,7 +22,7 @@ We evaluated many different regression models and iterations to predict salaries
 
 ## Support documents for this project:
 
-#### Jupyter Notebook:
+[05_Jupyter_Notebook_Code_Project2 Job salary](https://github.com/sergenane/Portfolio/blob/467693807f15eca0b6d9b21e18dd88e3ada6bf9c/Data%20science%20Projects/Project2%3A%20Data%20salary%20predictive%20model/05_Jupyter_Notebook_Code_Project2%20Job%20salary.ipynb)
 #### Presentation:
 #### Report:
 
