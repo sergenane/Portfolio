@@ -14,7 +14,7 @@ As a data science enthusiast, I am passionate about extracting actionable insigh
 
 - Master's Degree, Data Science
 ## Correlation one
-Amazon Data Analytics Program
+- Amazon Data Analytics Program
 
 
 # Related Experience:
