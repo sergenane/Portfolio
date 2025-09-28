@@ -5,7 +5,8 @@ As a data science enthusiast, I am passionate about extracting actionable insigh
 ## Project Links:
 - [Project 1: Energy Consumption Predictive Model](Project1.md)
 - [Project 2: Data Salary Predictive Model](Project2.md)
-- [Project 3: Stress Level Predictive Model](Project3.md) 
+- [Project 3: Stress Level Predictive Model](Project3.md)
+- [Project 1: Project1_DiabetesPrediction]
 
 
 # Education and Training:
