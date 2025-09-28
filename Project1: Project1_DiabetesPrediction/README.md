@@ -25,7 +25,6 @@ It demonstrates how data-driven methods can support healthcare providers with ea
 - `data/` → dataset (or link if too large)
 - `notebooks/` → Jupyter Notebook with full code
 - `reports/` → Proposal, White Paper, and Presentation slides
-- `README.md` → This project summary
 
 ## 🔮 Future Work
 - Use larger, more diverse datasets
