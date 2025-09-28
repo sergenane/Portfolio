@@ -11,6 +11,7 @@ As a data science enthusiast, I am passionate about extracting actionable insigh
 # Education and Training:
 ## Bellevue University
 Bachelor’s Degree, Data Science
+
 Master's Degree, Data Science
 ## Correlation one
 Amazon Data Analytics Program
