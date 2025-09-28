@@ -6,19 +6,19 @@ As a data science enthusiast, I am passionate about extracting actionable insigh
 - [Project 1: Energy Consumption Predictive Model](Project1.md)
 - [Project 2: Data Salary Predictive Model](Project2.md)
 - [Project 3: Stress Level Predictive Model](Project3.md)
-- [Project 1: Project1_DiabetesPrediction]
 
 
 # Education and Training:
 ## Bellevue University
 Bachelor’s Degree, Data Science
+Master's Degree, Data Science
 ## Correlation one
-Amazon Data Analytics
+Amazon Data Analytics Program
 
 
 # Related Experience:
 
-Correlation One - Data Analytics Program (January 2024 - Present)
+Correlation One - Data Analytics Program (January 2024 - June 2024)
 
 • Participated in a 24-week intensive data analytics program that provided hands-on experience in solving real-world business and technical challenges.
 
