@@ -28,5 +28,7 @@ It demonstrates how data-driven methods can support healthcare providers with ea
 - Apply explainability methods (e.g., SHAP values) for clinician trust
 
 ## Support documents
-- [Project 1 Jupyter notebook]()
+- [Project 1 Jupyter notebook](https://github.com/sergenane/Portfolio/blob/main/Project1%3A%20Project1_DiabetesPrediction/Project%201.ipynb)
+- [Project 1 Report/White Paper](https://github.com/sergenane/Portfolio/blob/main/Project1%3A%20Project1_DiabetesPrediction/Project%201%20White%20Paper.docx)
+- [Project 1 Proposal](https://github.com/sergenane/Portfolio/blob/main/Project1%3A%20Project1_DiabetesPrediction/Project%20Proposal.docx)
 ---
