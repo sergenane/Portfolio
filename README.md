@@ -45,8 +45,5 @@ Here is how you can get in touch:
 
 •	serge.h.nane@gmail.com
 
-•	www.linkedin.com/in/serge-nane-b4a853308
-
-
 
 
