@@ -1,6 +1,6 @@
 # Project 1: Predicting Diabetes Risk Using Patient Health Indicators
 
-##  Oerview
+##  Overview
 Diabetes is one of the most prevalent chronic diseases worldwide, leading to severe complications like cardiovascular disease, kidney failure, and blindness. Early identification of at-risk individuals is critical to reduce complications and healthcare costs. However, current diagnosis usually happens after symptoms appear, limiting prevention opportunities. This project applies machine learning on patient health indicators to predict diabetes onset.
 
 ## Dataset
