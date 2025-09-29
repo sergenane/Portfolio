@@ -13,6 +13,10 @@ It demonstrates how data-driven methods can support healthcare providers with ea
 ## Methods
 - Data cleaning and preprocessing (handling zero values, scaling, SMOTE balancing)
 - Exploratory Data Analysis (EDA): correlation heatmaps, feature distributions
+
+<img width="701" height="556" alt="ROC Curve default vs tuned" src="https://github.com/user-attachments/assets/6204982f-90de-4c43-bf15-b8341a249acb" />
+
+  
 - Models: Logistic Regression, Decision Tree, Random Forest, XGBoost
 - Evaluation metrics: Accuracy, Precision, Recall, F1-score, ROC-AUC
 
