@@ -10,7 +10,6 @@ Here are the dataset’s features and their descriptions:
 
 
 
-
 # EDA
 ![image](https://github.com/sergenane/Portfolio/assets/171219995/e54cc7fe-0d8a-4ff3-b94c-427a34aaf5ec) ![image](https://github.com/sergenane/Portfolio/assets/171219995/bc1404e6-b9c5-4402-aadb-a6268ccfc99a)
 
