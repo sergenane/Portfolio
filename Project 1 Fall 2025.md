@@ -15,8 +15,8 @@ Diabetes is one of the most prevalent chronic diseases worldwide, leading to sev
 
 <img width="960" height="872" alt="Correlation Matrix" src="https://github.com/user-attachments/assets/90d832b6-d0de-42c0-8256-1c7ce0c19691" />
 
-  - Models: Logistic Regression, Decision Tree, Random Forest, XGBoost
-- Evaluation metrics: Accuracy, Precision, Recall, F1-score, ROC-AUC
+  - Models: **Logistic Regression**, **Decision Tree**, **Random Forest**, **XGBoost**
+- Evaluation metrics: **Accuracy**, **Precision**, **Recall**, **F1-score**, **ROC-AUC**
 ## Model Performance Comparison
 
 | Model                | Accuracy | Precision | Recall | F1-Score | ROC-AUC |
