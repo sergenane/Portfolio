@@ -91,10 +91,10 @@ Both models consistently identified the following as top predictors:
 ---
 
 ## Support Documents
-- [Project 2 White Paper](Project%202%20WHITE%20PAPER.pdf)  
-- [Project 2 Jupyter Notebook](Project%202.ipynb)  
+- [Project 2 White Paper](https://github.com/sergenane/Portfolio/blob/main/Project2%3A%20Predicting%20Loan/Project%202%20WHITE%20PAPER.docx)  
+- [Project 2 Jupyter Notebook](https://github.com/sergenane/Portfolio/blob/main/Project2%3A%20Predicting%20Loan/Project.ipynb)  
 - [Project 2 Proposal](Project%20Proposal.docx)  
-- [Project 2 Presentation Slides](Predicting%20Loan%20Default%20Risk%20Using%20Customer%20Financial%20Profiles.pptx)
+- [Project 2 Presentation Slides](https://github.com/sergenane/Portfolio/blob/main/Project2%3A%20Predicting%20Loan/Predicting%20Loan%20Default%20Risk%20Using%20Customer%20Financial%20Profiles.pptx)
 
 ---
 
