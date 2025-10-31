@@ -7,7 +7,8 @@ As a data science enthusiast, I am passionate about extracting actionable insigh
 - [Project 2: Data Salary Predictive Model](Project2.md)
 - [Project 3: Stress Level Predictive Model](Project3.md)
 - [Project1_DiabetesPrediction_Fall_2025](Project_1_Fall_2025.md)
-- [Project1_DiabetesPrediction_Fall_2025](Project_2_Fall_2025.md)
+- [Project_2_Predicting_Loan_Default_RiskFall_2025](Project_2_Fall_2025.md
+)
 
 # Education and Training:
 ## Bellevue University
