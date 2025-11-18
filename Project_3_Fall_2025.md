@@ -138,7 +138,7 @@ BERT improved accuracy by **+2.32%**, which is significantly meaningful for larg
 - [Project 2 White Paper](https://github.com/sergenane/Portfolio/blob/main/Project2%3A%20Predicting%20Loan/Project%202%20WHITE%20PAPER.docx)  
 - [Project 2 Jupyter Notebook](https://github.com/sergenane/Portfolio/blob/main/Project2%3A%20Predicting%20Loan/Project.ipynb)  
 - [Project 2 Proposal](https://github.com/sergenane/Portfolio/blob/main/Project2%3A%20Predicting%20Loan/Project%20Proposal.docx)  
-- [Project 2 Presentation Slides](Project3: Movie Review Sentiment Intelligence/Movie Review Sentiment Intelligence.pptx)
+- [Project 3 Presentation Slides](https://github.com/sergenane/Portfolio/blob/main/Project3%3A%20Movie%20Review%20Sentiment%20Intelligence/Movie%20Review%20Sentiment%20Intelligence.pptx)
 
 
 ---
