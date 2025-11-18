@@ -9,7 +9,7 @@ As a data science enthusiast, I am passionate about extracting actionable insigh
 - [Project1_DiabetesPrediction_Fall_2025](Project_1_Fall_2025.md)
 - [Project_2_Predicting_Loan_Default_Risk_Fall_2025](Project_2_Fall_2025.md
 )
-- [Project_3_Predicting_Loan_Default_Risk_Fall_2025](Project_2_Fall_2025.md
+- [Project_3_Fall_2025_Fall_2025](Project_3_Fall_2025.md
 )
 
 
