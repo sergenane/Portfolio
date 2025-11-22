@@ -10,9 +10,11 @@
 
 As a data science enthusiast, I am passionate about extracting actionable insights from complex data to help decision-makers drive meaningful impact. My journey in this broad and ever-evolving field has been an exciting one, filled with opportunities to apply my analytical skills and problem-solving abilities. Through this platform, I aim to showcase my achievements, share my experiences, and continue learning from the data science community.
 
-**Technical Skills:** Python, Pandas, Scikit-learn, Machine Learning, Data Visualization, Statistical Analysis
-**Tools:** Jupyter Notebook, Excel, Git
-**Specialties:** Predictive Modeling, Classification Algorithms, Data Preprocessing, Feature Engineering
+**Technical Skills:** Python, R, SQL, Pandas, Scikit-learn, Machine Learning, Data Visualization, Statistical Analysis;
+
+**Tools:** Jupyter Notebook, PyCharm, Visual Studio, Tableau, Power BI, Excel, Git;
+
+**Specialties:** Data Cleaning, Data Preprocessing, Predictive Modeling, Classification Algorithms, Feature Engineering
 
 ---
 
