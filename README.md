@@ -1,8 +1,8 @@
 ---
-title: Sergenane's Data Portfolio
+title: My Data Portfolio
 ---
 
-# Sergenane N'Guessan
+# Serge Nane
 *Data Scientist | Machine Learning Enthusiast | Transforming Data into Actionable Insights*
 
 ---
