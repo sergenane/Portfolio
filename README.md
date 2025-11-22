@@ -1,7 +1,7 @@
-## My Data Portfolio
+# My Data Portfolio
 ---
 
-# Hi, I’m Serge Nane  
+## Hi, I’m Serge Nane  
 ### Data Scientist Enthusiast | Machine Learning | Turning Data Into Actionable Insights
 
 Helping businesses make smarter decisions through data-driven solutions, predictive modeling, and impactful analytics.
@@ -47,6 +47,7 @@ A machine learning model designed to predict the likelihood of diabetes in patie
 - Analyzed feature importance to identify the strongest predictors of diabetes  
 - Achieved strong classification performance supporting early medical intervention  
 - **Repository:** [Diabetes Prediction Model](https://github.com/sergenane/Portfolio/blob/main/Project_1_Fall_2025.md)
+  
 
 ### 📌 **Loan Default Risk Prediction**
 **`Python` `Financial Modeling` `Pandas` `Predictive Analytics`**
@@ -58,6 +59,7 @@ Developed a risk assessment model to help financial institutions identify borrow
 - Built a prediction workflow to classify customers into low, moderate, and high-risk groups  
 - Provided insights for more ethical and data-driven lending decisions  
 - **Repository:** [Loan Default Risk Prediction](https://github.com/sergenane/Portfolio/blob/main/Project_2_Fall_2025.md)
+  
 
 ### 📌 **Movie Review Sentiment Analysis**
 **`Python` `NLP` `Text Processing` `Sentiment Analysis`**
@@ -69,6 +71,7 @@ Built an NLP system to classify movie reviews as positive or negative.
 - Trained Naive Bayes, Logistic Regression, and SVM sentiment classification models  
 - Evaluated model performance and built an automated prediction pipeline  
 - **Repository:** [Movie Review Sentiment Analysis](https://github.com/sergenane/Portfolio/blob/main/Project_3_Fall_2025.md)
+  
 
 ### 📌 **Energy Consumption Forecasting**
 **`Python` `Time Series Analysis` `Predictive Modeling` `Energy Analytics`**
@@ -80,6 +83,7 @@ Developed forecasting models to predict energy usage patterns and support utilit
 - Identified key factors driving consumption behavior  
 - Generated insights for better energy distribution strategies  
 - **Repository:** [Energy Consumption Predictive Model](https://github.com/sergenane/Portfolio/blob/main/Project1.md)
+
   
 ### 📌 **Data Science Salary Prediction**
 **`Python` `Regression Modeling` `Career Analytics` `EDA`**
@@ -91,6 +95,7 @@ Created predictive models to estimate salaries in the data science field using j
 - Identified the strongest salary-driving factors  
 - Produced analytics useful for career planning and compensation insights  
 - **Repository:** [Data Science Salary Predictive Model](https://github.com/sergenane/Portfolio/blob/main/Project2.md)
+
   
 ### 📌 **Stress Level Prediction**
 **`Python` `Classification` `Healthcare Analytics` `Physiological Data`**
