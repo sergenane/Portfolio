@@ -1,5 +1,5 @@
 ---
-title: My Data Portfolio
+My Data Portfolio
 ---
 
 # Serge Nane
