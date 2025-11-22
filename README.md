@@ -61,15 +61,15 @@ Developed a risk assessment model to help financial institutions identify borrow
 - **Repository:** [Loan Default Risk Prediction](https://github.com/sergenane/Portfolio/blob/main/Project_2_Fall_2025.md)
   
 
-### 📌 **Movie Review Sentiment Analysis**
-**`Python` `NLP` `Text Processing` `Sentiment Analysis`**
+### 📌 Fine-Grained Sentiment and Aspect Extraction from Movie Reviews  
+*`Python` `NLP` `Transformer Models` `Sentiment Analysis`*
 
-Built an NLP system to classify movie reviews as positive or negative.
+Developed sentiment classification models on IMDB movie reviews using both traditional TF-IDF + Logistic Regression and advanced fine-tuned BERT transformer models.  
 
-- Applied text cleaning techniques: tokenization, lemmatization, stop-word removal  
-- Converted text to numerical vectors using TF-IDF  
-- Trained Naive Bayes, Logistic Regression, and SVM sentiment classification models  
-- Evaluated model performance and built an automated prediction pipeline  
+- Preprocessed text with cleaning and lemmatization  
+- Achieved 91.23% accuracy with BERT, improving over baseline by 2.3%  
+- Extracted key movie aspects (e.g., acting, plot, direction) via topic modeling  
+- Provided actionable insights for film stakeholders based on sentiment and aspect analysis  
 - **Repository:** [Movie Review Sentiment Analysis](https://github.com/sergenane/Portfolio/blob/main/Project_3_Fall_2025.md)
   
 
