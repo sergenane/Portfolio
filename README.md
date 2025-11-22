@@ -37,76 +37,74 @@ Today, I am committed to leveraging data to improve processes, support informed 
 
 ## Projects
 
-### 📌 **Diabetes Risk Prediction Model**
-**`Python` `Scikit-learn` `Healthcare Analytics` `Classification`**
+---
+
+### 📌 [Diabetes Prediction Model](https://github.com/sergenane/Portfolio/blob/main/Project_1_Fall_2025.md)  
+*`Python` `Machine Learning` `Healthcare Analytics` `Classification`*  
 
 A machine learning model designed to predict the likelihood of diabetes in patients based on health indicators.
 
-- Cleaned and prepared medical data for model development using preprocessing techniques  
-- Implemented Logistic Regression, Random Forest, and KNN models to compare performance  
-- Analyzed feature importance to identify the strongest predictors of diabetes  
-- Achieved strong classification performance supporting early medical intervention  
-- **Repository:** [Diabetes Prediction Model](https://github.com/sergenane/Portfolio/blob/main/Project_1_Fall_2025.md)
-  
+- Developed a predictive model using medical history data  
+- Implemented classification algorithms including Logistic Regression and Random Forest  
+- Performed feature importance analysis to identify key risk factors  
+- Achieved strong accuracy supporting early diagnosis and intervention  
 
-### 📌 **Loan Default Risk Prediction**
-**`Python` `Financial Modeling` `Pandas` `Predictive Analytics`**
+---
+
+### 📌 [Loan Default Risk Prediction](https://github.com/sergenane/Portfolio/blob/main/Project_2_Fall_2025.md)  
+*`Python` `Risk Analysis` `Financial Modeling` `Predictive Analytics`*  
 
 Developed a risk assessment model to help financial institutions identify borrowers who may default on loans.
 
-- Engineered new financial and demographic features to improve model accuracy  
-- Tested multiple machine learning algorithms including Random Forest and XGBoost  
-- Built a prediction workflow to classify customers into low, moderate, and high-risk groups  
-- Provided insights for more ethical and data-driven lending decisions  
-- **Repository:** [Loan Default Risk Prediction](https://github.com/sergenane/Portfolio/blob/main/Project_2_Fall_2025.md)
-  
+- Built machine learning models using applicant financial and demographic data  
+- Engineered features to enhance model performance  
+- Compared multiple classifiers to optimize prediction accuracy  
+- Created a risk assessment tool to support ethical lending decisions  
 
-### 📌 Fine-Grained Sentiment and Aspect Extraction from Movie Reviews  
-*`Python` `NLP` `Transformer Models` `Sentiment Analysis`*
+---
 
-Developed sentiment classification models on IMDB movie reviews using both traditional TF-IDF + Logistic Regression and advanced fine-tuned BERT transformer models.  
+### 📌 [Fine-Grained Sentiment and Aspect Extraction from Movie Reviews](https://github.com/sergenane/Portfolio/blob/main/Project_3_Fall_2025.md)  
+*`Python` `NLP` `Sentiment Analysis` `Transformer Models`*  
 
-- Preprocessed text with cleaning and lemmatization  
-- Achieved 91.23% accuracy with BERT, improving over baseline by 2.3%  
-- Extracted key movie aspects (e.g., acting, plot, direction) via topic modeling  
-- Provided actionable insights for film stakeholders based on sentiment and aspect analysis  
-- **Repository:** [Movie Review Sentiment Analysis](https://github.com/sergenane/Portfolio/blob/main/Project_3_Fall_2025.md)
-  
+Developed sentiment classification models on IMDB movie reviews using both traditional TF-IDF + Logistic Regression and advanced fine-tuned BERT transformer models.
 
-### 📌 **Energy Consumption Forecasting**
-**`Python` `Time Series Analysis` `Predictive Modeling` `Energy Analytics`**
+- Preprocessed text including cleaning, lemmatization, and stopword removal  
+- Built and compared baseline and transformer-based models  
+- Achieved 91.23% accuracy with BERT, outperforming baseline  
+- Performed topic modeling to extract key movie aspects influencing audience opinions  
+
+---
+
+### 📌 [Energy Consumption Predictive Model](https://github.com/sergenane/Portfolio/blob/main/Project1.md)  
+*`Python` `Time Series` `Predictive Modeling` `Energy Analytics`*  
 
 Developed forecasting models to predict energy usage patterns and support utility planning.
 
-- Analyzed historical energy data for seasonal trends and consumption cycles  
-- Built predictive models using ARIMA and machine learning techniques  
-- Identified key factors driving consumption behavior  
-- Generated insights for better energy distribution strategies  
-- **Repository:** [Energy Consumption Predictive Model](https://github.com/sergenane/Portfolio/blob/main/Project1.md)
+- Analyzed historical energy data for seasonality and consumption drivers  
+- Built ARIMA and machine learning models for forecasting  
+- Provided actionable insights to optimize energy distribution  
 
-  
-### 📌 **Data Science Salary Prediction**
-**`Python` `Regression Modeling` `Career Analytics` `EDA`**
+---
+
+### 📌 [Data Science Salary Predictive Model](https://github.com/sergenane/Portfolio/blob/main/Project2.md)  
+*`Python` `Regression Analysis` `Career Analytics` `Market Trends`*  
 
 Created predictive models to estimate salaries in the data science field using job-related attributes.
 
-- Conducted exploratory data analysis to understand the job market  
-- Built regression models to predict salary ranges based on experience, location, and skillset  
-- Identified the strongest salary-driving factors  
-- Produced analytics useful for career planning and compensation insights  
-- **Repository:** [Data Science Salary Predictive Model](https://github.com/sergenane/Portfolio/blob/main/Project2.md)
+- Analyzed job market data for salary-influencing factors  
+- Built regression models based on experience, location, and skills  
+- Delivered insights to support career planning and skill development  
 
-  
-### 📌 **Stress Level Prediction**
-**`Python` `Classification` `Healthcare Analytics` `Physiological Data`**
+---
+
+### 📌 [Stress Level Predictive Model](https://github.com/sergenane/Portfolio/blob/main/Project3.md)  
+*`Python` `Healthcare Analytics` `Wellness Technology` `Classification`*  
 
 Designed a machine learning model to classify stress levels based on biometric and physiological signals.
 
-- Cleaned and analyzed health metrics to identify indicators of stress  
-- Trained multiple classification algorithms to detect stress levels  
-- Evaluated performance and built a stress monitoring prediction pipeline  
-- Contributed to wellness and digital health technology use cases  
-- **Repository:** [Stress Level Predictive Model](https://github.com/sergenane/Portfolio/blob/main/Project3.md)
+- Developed classification models using health metric data  
+- Identified key stress indicators through data analysis  
+- Built predictive systems for early stress detection and wellness applications  
 
 ---
 
