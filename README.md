@@ -2,7 +2,7 @@
 ---
 
 # Serge Nane
-*Data Scientist | Machine Learning Enthusiast | Transforming Data into Actionable Insights*
+*Data Scientist Enthusiast| Machine Learning | Transforming Data into Actionable Insights*
 
 ---
 
