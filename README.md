@@ -147,7 +147,7 @@ Feel free to reach out via email or connect with me on GitHub and LinkedIn.
 
 - 📧 Email: [serge.h.nane@gmail.com](mailto:serge.h.nane@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/sergenane](https://www.linkedin.com/in/serge-nane/)  
-- 🐙 GitHub: [github.com/sergenane](https://github.com/sergenane)  
+- 🐙 GitHub: [github.com/sergenane](https://github.com/sergenane/Portfolio)  
 
 ---
 
