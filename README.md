@@ -19,7 +19,7 @@ As a data science enthusiast, I am passionate about extracting actionable insigh
 
 ## Projects
 
-### [Diabetes Prediction Model](https://github.com/sergenane/Portfolio/blob/main/Project1_DiabetesPrediction_Fall_2025/Diabetes_Prediction_Analysis.ipynb)
+### [Diabetes Prediction Model](https://github.com/sergenane/Portfolio/blob/main/Project_1_Fall_2025.md)
 *`Python` `Machine Learning` `Healthcare Analytics` `Classification`*
 
 - Developed a predictive model to identify patients at risk of diabetes using medical history data
@@ -27,7 +27,7 @@ As a data science enthusiast, I am passionate about extracting actionable insigh
 - Performed feature importance analysis to identify key risk factors for diabetes
 - Achieved high accuracy in predicting diabetes onset for early intervention
 
-### [Loan Default Risk Prediction](https://github.com/sergenane/Portfolio/blob/main/Project_2_Predicting_Loan_Default_Risk_Fall_2025/Loan_Default_Risk_Prediction.ipynb)
+### [Loan Default Risk Prediction](https://github.com/sergenane/Portfolio/blob/main/Project_2_Fall_2025.md)
 *`Python` `Risk Analysis` `Financial Modeling` `Predictive Analytics`*
 
 - Built a machine learning model to assess loan default risk using applicant financial data
@@ -35,7 +35,7 @@ As a data science enthusiast, I am passionate about extracting actionable insigh
 - Compared multiple classification models to optimize prediction accuracy
 - Created a risk assessment tool to support lending decision processes
 
-### [Movie Review Sentiment Analysis](https://github.com/sergenane/Portfolio/blob/main/Project_3_Movie_Review_Sentiment_Intelligence_Fall_2025/Movie_Review_Sentiment_Analysis.ipynb)
+### [Movie Review Sentiment Analysis](https://github.com/sergenane/Portfolio/blob/main/Project_3_Fall_2025.md)
 *`Python` `NLP` `Sentiment Analysis` `Text Processing`*
 
 - Conducted sentiment analysis on movie reviews to classify them as positive or negative
